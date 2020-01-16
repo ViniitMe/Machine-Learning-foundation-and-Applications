@@ -1,5 +1,5 @@
 # Machine-Learning-foundation-and-Applications
-This contains Solutions to the Class Assignments
+This contains Solutions to the Class Assignments:-
 Topics Covered:
 1) KNN
 2) SVM
